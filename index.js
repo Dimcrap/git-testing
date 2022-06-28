@@ -1,4 +1,1 @@
-alert("welcome!");
-console.log("testing massage");
-console.log("ebarate dade shode");
-
+console.log("a great look view")
